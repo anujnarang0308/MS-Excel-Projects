@@ -1,4 +1,5 @@
 📊 **Retail Performance & Profitability Diagnostic (Superstore Case Study)**
+
 📌 Project Overview
 This repository contains an end-to-end business intelligence and performance analysis of a nationwide retail operation (Superstore). Using transaction-level data across 9,994 orders, this project evaluates product category profitability, customer segment value, logistics efficiency, and the financial impact of discounting strategies. The analysis combines data processing in Microsoft Excel with executive summary storytelling in PowerPoint.  
 
