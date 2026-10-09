@@ -10,8 +10,7 @@ This repository contains an end-to-end business intelligence and performance ana
 🛠 Tech Stack & ToolsData Analysis & Modeling: Microsoft Excel (Pivot Tables, Data Summarization, Correlation Analysis)   
 
 
-- [Analysis view](https://github.com/anujnarang0308/MS-Excel-Projects/blob/main/Retail-Performance-Diagnostic/Dashboard%20Screenshot.png)
-- <img width="1041" height="436" alt="Retail Case Study Screenshot" src="https://github.com/user-attachments/assets/cccfd273-6962-45de-9cb3-f43a736b5020" />
+- https://github.com/anujnarang0308/MS-Excel-Projects/blob/main/Retail-Performance-Diagnostic/Sample%20-%20Superstore.xlsx
 
 
 Reporting & Executive Presentation: Microsoft PowerPoint (Business Deck, Visual Communication)
